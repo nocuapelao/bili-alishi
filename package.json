@@ -1,0 +1,15 @@
+{
+  "name": "bot-24h-hosting",
+  "version": "1.0.0",
+  "description": "Base profissional para hospedar bots Discord 24 horas",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.26.4",
+    "dotenv": "^16.6.1",
+    "express": "^4.19.2",
+    "qrcode": "^1.5.4"
+  }
+}
